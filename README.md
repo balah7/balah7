@@ -15,10 +15,8 @@ Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvol
 ### ✍️ Frase do dia:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Contribuições
+### 🔝 Contribuições:
 ![](https://github-contributor-stats.vercel.app/api?username=balah7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=balah7&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=balah7&icon=2&color=4)](https://visitcount.itsvg.in) 🍬
