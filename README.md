@@ -18,5 +18,7 @@ Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvol
 ### 🔝 Contribuições:
 ![](https://github-contributor-stats.vercel.app/api?username=balah7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📞 Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/935839229915828244)](https://discord.com/users/935839229915828244)
 ---
 [![](https://visitcount.itsvg.in/api?id=balah7&icon=2&color=4)](https://visitcount.itsvg.in) 🍬
