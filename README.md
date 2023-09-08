@@ -16,7 +16,7 @@ Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvol
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Tudo%20que%20%C3%A9%20bom%20tem%20algo%20ruim&theme=catppuccin_mocha&author=Matu%C3%AA)
 
 ### 🔝 Contribuições:
-![](https://github-contributor-stats.vercel.app/api?username=balah7&limit=5&theme=&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=balah7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 📞 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/935839229915828244)](https://discord.com/users/935839229915828244)
