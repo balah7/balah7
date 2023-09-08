@@ -8,9 +8,9 @@ Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvol
 # 💻 Conhecimentos:
 [<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="width: 45px; height: 45px;">](https://www.javascript.com/) [<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="width: 45px; height: 45px;">](https://www.typescriptlang.org/) [<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 45px; height: 45px;">](https://nodejs.org/pt-br) - [<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="width: 45px; height: 45px;">](https://expressjs.com/pt-br/) [<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" style="width: 45px; height: 45px;">](https://www.mongodb.com/pt-br)
 # 📊 Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=balah7&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=balah7&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=balah7&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=balah7&theme=shadow_red&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Frase do dia:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Tudo%20que%20%C3%A9%20bom%20tem%20algo%20ruim&theme=catppuccin_mocha&author=Matu%C3%AA)
