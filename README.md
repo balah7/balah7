@@ -1,5 +1,6 @@
 # 🦇 Um pouco de mim:
-Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvolvedor back-end em formação.<br>Comecei a estudar programação em maio de 2022 e, desde então, não paro de aprender. Sou apaixonado por tecnologia e quero me tornar um engenheiro de software.<br>Além de programação, também sou fã do Matuê, youtuber e adoro jogar videogames.<br>Se você tiver alguma dúvida ou quiser me conhecer melhor, fique à vontade para entrar em contato comigo.<br><br>Abraços! 👋🏾<br>
+Hello, world! 🍬<br><br>Meu apelido é balah7, tenho 15 anos e sou um desenvolvedor back-end em formação.<br>Comecei a estudar programação em maio de 2022 e, desde então, não paro de aprender. Sou apaixonado por tecnologia e quero me tornar um engenheiro de software.<br>Além de programação, também sou fã do Matuê, youtuber e adoro jogar videogames.<br>Se você tiver alguma dúvida ou quiser me conhecer melhor, fique à vontade para entrar em contato comigo.<br><br>Abraços! 👋🏾<br><br>
+#HTMLIsAProgrammingLanguage <br>
 
 
 ## 🌐 Sociais:
