@@ -11,7 +11,6 @@ Hello! Pleasure to meet you. Allow me to introduce myself briefly.
     <li>💬 You can ask me about <b>Kotlin, Android, Mobile, Discord...</b></li>
     <li>🩸 Living with <b>Diabetes 1</b></li>
     <li>☕ I do not like <b>Coffee</b></li>
-    <li>📮 You can contact me directly here : <b>kayoaruj@gmail.com</b></li>
   </ul>
 
 <hr>
