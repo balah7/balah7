@@ -207,11 +207,11 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <br />
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Arch Linux (Gnome)</li>
+  	  <li><b>OS:</b> Manjaro (KDE)</li>
 	    <li><b>Laptop: </b> Lenovo IdeaPad 3i</li>
-  	  <li><b>Browser: </b> Firefox Developer Edition</li>
+  	  <li><b>Browser: </b> Opera</li>
       <li><b>Cpu:</b> AMD Ryzen™ 5 5500U with Radeon™ Graphics × 12</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Qterminal)</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Konsole)</li>
 	</ul>	
 </details>
 
