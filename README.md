@@ -33,12 +33,12 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <h3><i>Languages :</i></h3>
   <table>
   <tr border: none;>
-    <td align="center" width="110">
+<!--     <td align="center" width="110">
       <a href="https://kotlinlang.org/">
         <img src="icons/languages/kotlin.svg" width="50" height="50" alt="Kotlin lang logo" />
       </a>
       <br>KOTLIN
-    </td>	  
+    </td>	   -->
     <td align="center" width="110">
       <a href="https://crystal-lang.org/">
         <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crytal lang logo" />
@@ -59,12 +59,12 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <h3><i>IDEs :</i></h3>
   <table>
   <tr border: none;>
-    <td align="center" width="110">
+<!--     <td align="center" width="110">
       <a href="https://developer.android.com/studio">
         <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
       </a>
       <br>ANDROID STUDIO
-    </td>	  
+    </td>	   -->
     <td align="center" width="110">
       <a href="https://www.jetbrains.com/pt-br/idea/">
         <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="Intellij IDEA logo" />
@@ -104,22 +104,10 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
       <br>GIT
     </td>
     <td align="center" width="110">
-      <a href="https://www.phind.com/">
-        <img src="icons/tools/phind.png" width="50" height="50" alt="Phind logo" />
-      </a>
-      <br>PHIND
-    </td>
-    <td align="center" width="110">
       <a href="https://nodejs.org/en">
         <img src="icons/tools/nodejs.svg" width="50" height="50" alt="Nodejs logo" />
       </a>
       <br>NODE JS
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.figma.com/">
-        <img src="icons/tools/figma.svg" width="50" height="50" alt="Figma logo" />
-      </a>
-      <br>FIGMA
     </td>
   </tr>
 </table>
@@ -158,13 +146,6 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
     </a>
 </details>
 
-<details>	
-  <summary><b>🎶 Spotify Profile</b></summary>
-  <br/>
-
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=u2ql73vtsi6ipl645y7djimlk&cover_image=true&theme=default&show_offline=false&background_color=24273a&interchange=false&bar_color=a6da95&bar_color_cover=false" alt="spotify-github-profile">
-
-</details>
 <!--
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
@@ -207,11 +188,11 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <br />
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Manjaro (KDE)</li>
+  	  <li><b>OS:</b> Manjaro Linux (GNOME 46)</li>
 	    <li><b>Laptop: </b> Lenovo IdeaPad 3i</li>
   	  <li><b>Browser: </b> Opera</li>
       <li><b>Cpu:</b> AMD Ryzen™ 5 5500U with Radeon™ Graphics × 12</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Konsole)</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Tilix)</li>
 	</ul>	
 </details>
 
