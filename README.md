@@ -4,17 +4,18 @@
 <p width="40%">
 Hello! Pleasure to meet you. Allow me to introduce myself briefly.
   <ul>
-    <li>💻 I want to be a <b>Software Engineer</b></li>
-    <li>📍 I am from <b>Brazil 🇧🇷</b></li>
-    <li>🏢 I am currently studying to get my <b>First Job</b></li>
-    <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b></li>
-    <li>💬 You can ask me about <b>Kotlin, Android, Mobile, Discord...</b></li>
-    <li>🩸 Living with <b>Diabetes 1</b></li>
-    <li>☕ I do not like <b>Coffee</b></li>
+    <li>💻 I want to be a <b>Software Engineer</b>;</li>
+    <li>📍 I am from <b>Brazil 🇧🇷</b>;</li>
+    <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
+    <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
+    <li>💬 You can ask me about <b>Kotlin, Android, Mobile, Discord so on</b>;</li>
+    <li>🩸 Living with <b>type 1 Diabetes</b>;</li>
+    <li>☕ I do not like <b>Coffee</b>;</li>
+    <li>🎛️ I'm unmatched when it comes to <b>Matuê</b>.</li>
   </ul>
 
 <hr>
-Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development</b>. Currently diving into <b>Kotlin</b>, I'm on a mission to explore various technologies. Despite being a Type 1 diabetic, I lead a normal life with care. Alongside coding, I'm also delving into <b>English</b> studies, currently at the basic level. My favorite programming language is <b>Crystal</b>, and I aim to specialize in backend development with it in the future. I create <b>YouTube</b> content to share experiences and programming tips. Feel free to reach out via email or Discord. Cheers! 🚀
+Hello! I’m Kayo César, born in 2008, and passionate about <b>Android development</b>. I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life. Although I have Type 1 diabetes, I lead a normal life with proper care. Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level. My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future. I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language. Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips. Feel free to reach out to me through my social media. Cheers! 🚀 <3
 
 </p>
 
@@ -22,7 +23,7 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
 
 <p align="left">
   <a href="https://www.linkedin.com/in/balah7/" target="_blank"><img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50" style="margin-right: 32px; margin-left: 43px;"></a>
-  <a href="https://www.instagram.com/ibalah7/" target="_blank"><img alt="Icon Instragram (profile)" src="icons/social/instagram.svg" width="50" height="50" style="margin-right: 32px;"></a>
+  <a href="https://www.instagram.com/bal4h7/" target="_blank"><img alt="Icon Instragram (profile)" src="icons/social/instagram.svg" width="50" height="50" style="margin-right: 32px;"></a>
   <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig"><img alt="Icon Youtube (channel)" src="icons/social/youtube.svg" width="50" height="50" style="margin-right: 32px;"></a> 
   <a href="https://discord.gg/RphRA56rM7"><img alt="Icon Discord (prfile)" src="icons/social/discord.svg" width="50" height="50"></a> 
 </p>
@@ -33,23 +34,23 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <h3><i>Languages :</i></h3>
   <table>
   <tr border: none;>
-<!--     <td align="center" width="110">
+    <td align="center" width="110">
       <a href="https://kotlinlang.org/">
         <img src="icons/languages/kotlin.svg" width="50" height="50" alt="Kotlin lang logo" />
       </a>
       <br>KOTLIN
-    </td>	   -->
-    <td align="center" width="110">
-      <a href="https://crystal-lang.org/">
-        <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crytal lang logo" />
-      </a>
-      <br>CRYSTAL
-    </td>
+    </td>	
     <td align="center" width="110">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <img src="icons/languages/javascript.svg" width="50" height="50" alt="Javascript lang logo" />
       </a>
       <br>JAVASCRIPT
+    </td>  
+    <td align="center" width="110">
+      <a href="https://crystal-lang.org/">
+        <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crytal lang logo" />
+      </a>
+      <br>CRYSTAL
     </td>
   </tr>
 </table>
@@ -76,13 +77,6 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
         <img src="icons/ides/vscode.svg" width="50" height="50" alt="Vs Code logo" />
       </a>
       <br>VS CODE
-    </td>
-    <td align="center" width="110">
-      <a href="https://replit.com/">
-        <img src="icons/ides/replit.svg" width="50" height="50" alt="Helix logo" />
-      </a>
-      <br>REPLIT
-    </td>
   </tr>
 </table>
 </p>
@@ -188,11 +182,11 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
   <br />
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Manjaro Linux (GNOME 46)</li>
+  	  <li><b>OS:</b> Arch Linux (GNOME 47)</li>
 	    <li><b>Laptop: </b> Lenovo IdeaPad 3i</li>
-  	  <li><b>Browser: </b> Opera</li>
+  	  <li><b>Browser: </b> Firefox</li>
       <li><b>Cpu:</b> AMD Ryzen™ 5 5500U with Radeon™ Graphics × 12</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Tilix)</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Gnome Terminal)</li>
 	</ul>	
 </details>
 
@@ -202,7 +196,7 @@ Hello! I'm Kayo César, born in 2008, with a passion for <b>Android development<
 
 ### Thank you for getting here! ❤️🍬
 
-<img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=Tudo+que+é+bom+tem+algo+ruim&bg_color=24273a&quote_color=cad3f5&author_color=cad3f5&accent_color=c6a0f6&border_color=8087a2&border_radius=15"/>
+<img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=Sozin+na+minha+caminhada+e+tô+vencendo+a+batalha.&bg_color=24273a&quote_color=cad3f5&author_color=cad3f5&accent_color=c6a0f6&border_color=8087a2&border_radius=15"/>
 
 </div>
 
